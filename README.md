@@ -1,4 +1,4 @@
-# Naplex
+# NAPLEX
 
 ---
 
